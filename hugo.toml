@@ -1,0 +1,82 @@
+baseURL = "https://dennyabrahamsinaga.my.id/"
+languageCode = "en-us"
+title = "Denny Abraham Sinaga | securi(osi)ty"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  author = "dennyabrahamsinaga"
+  description = "Cybersecurity portfolio, technical notes, and continuous learning."
+
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  ShowAllPagesInArchive = true
+  UseHugoToc = true
+
+  mainSections = ["notes"]
+
+  [params.profileMode]
+    enabled = true
+    title = "Denny Abraham Sinaga"
+    subtitle = "Cybersecurity Portfolio, Technical Notes, and Continuous Learning"
+    imageUrl = "/images/profile.jpeg"
+    imageWidth = 140
+    imageHeight = 140
+    imageTitle = "Denny Abraham Sinaga"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
+
+    [[params.profileMode.buttons]]
+      name = "Portfolio"
+      url = "/portfolio/"
+
+    [[params.profileMode.buttons]]
+      name = "Notes"
+      url = "/notes/"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/dennyabrahamsinaga"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/dennyabrahamsinaga/"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 3
