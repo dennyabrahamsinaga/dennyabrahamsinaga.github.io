@@ -1,7 +1,7 @@
 ---
 title: "Stranger's CTF 2026 - Grid"
 date: 2026-03-27
-draft: true
+draft: false
 categories: ["CTF"]
 tags: ["ctf", "forensics"]
 description: "Writeup for Grid from Stranger's CTF Techtrix '26."

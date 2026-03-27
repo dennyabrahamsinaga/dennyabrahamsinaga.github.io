@@ -1,7 +1,7 @@
 ---
 title: "Stranger's CTF 2026 - The Fav Controversy  "
 date: 2026-03-27
-draft: true
+draft: false
 categories: ["CTF"]
 tags: ["ctf", "web"]
 description: "Writeup for The Fav Controversy from Stranger's CTF Techtrix '26."

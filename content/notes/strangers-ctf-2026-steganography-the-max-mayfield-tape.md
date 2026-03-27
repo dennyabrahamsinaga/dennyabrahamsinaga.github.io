@@ -1,7 +1,7 @@
 ---
 title: "Stranger's CTF 2026 - The Max Mayfield Tape"
 date: 2026-03-27
-draft: true
+draft: false
 categories: ["CTF"]
 tags: ["ctf", "steganography"]
 description: "Writeup for The Max Mayfield Tape from Stranger's CTF Techtrix '26."

@@ -1,7 +1,7 @@
 ---
 title: "Stranger's CTF 2026 - SecurePad"
 date: 2026-03-27
-draft: true
+draft: false
 categories: ["CTF"]
 tags: ["ctf", "reverse engineering", "crypto"]
 description: "Writeup for SecurePad from Stranger's CTF Techtrix '26."

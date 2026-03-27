@@ -1,7 +1,7 @@
 ---
 title: "Stranger's CTF - Techtrix '26 Overview"
 date: 2026-03-27
-draft: true
+draft: false
 categories: ["CTF"]
 tags: ["ctf", "stranger's ctf - techtrix-2026"]
 description: "Overview and writeups for Stranger's CTF Techtrix '26."

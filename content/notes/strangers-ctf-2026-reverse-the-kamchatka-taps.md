@@ -1,7 +1,7 @@
 ---
 title: "Stranger's CTF 2026 - The Kamchatka Taps"
 date: 2026-03-27
-draft: true
+draft: false
 categories: ["CTF"]
 tags: ["ctf", "reverse", "audio forensics"]
 description: "Writeup for The Kamchatka Taps from Stranger's CTF Techtrix '26."
